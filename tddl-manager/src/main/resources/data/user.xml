@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <property name="id">1</property>
+    <property name="realname">root</property>
+    <property name="username">admin</property>
+    <property name="password">admin</property>
+    <property name="user_role">System_Admin</property>
+    <property name="status">Normal</property>
+  </user>
+</users>

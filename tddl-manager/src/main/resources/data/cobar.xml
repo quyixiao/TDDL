@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cobars>
+  <cobar>
+    <property name="id">1</property>
+    <property name="clusterId">1</property>
+    <property name="name">drds</property>
+    <property name="status">Active</property>
+    <property name="host">192.168.1.104</property>
+    <property name="serverPort">8507</property>
+    <property name="port">9507</property>
+    <property name="user">drds</property>
+    <property name="password">drds</property>
+    <property name="time_diff">0</property>
+  </cobar>
+</cobars>
